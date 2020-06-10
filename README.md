@@ -1,6 +1,22 @@
 # nm-ui
 
-> A Vue.js project
+[![NPM version][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/egg-wx.svg?style=flat-square
+
+# Install
+
+```
+$ npm i nm-ui-swort --save
+$ npm install nm-ui-swort --save
+```
+
+# Usage
+
+```
+一套使用新拟物风格的UI
+相关组件 @tweenjs/tween.js  https://github.com/tweenjs/tween.js/
+```
 
 ## Build Setup
 
@@ -15,4 +31,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
