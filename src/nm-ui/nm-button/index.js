@@ -1,6 +1,6 @@
-import nmButton from './nm-button';
+import nmButton from './nm-button'
 nmButton.install = function (Vue) {
-  Vue.component('nm-button', nmButton);
+  Vue.component('nm-button', nmButton)
 };
 
-export default nmButton;
+export default nmButton
