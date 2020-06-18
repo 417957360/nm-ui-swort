@@ -1,5 +1,5 @@
-// sumFunction 插件对应组件的名字
-import nmButton from './nm-button';
+import nmButton from './Button';
+import nmIcon from './Icon';
 
 const version = '__VERSION__';
 function install (Vue) {
@@ -8,10 +8,10 @@ function install (Vue) {
   });
 }
 const components = {
-  nmButton
+  nmButton, nmIcon
 };
 export {
-  nmButton
+  nmButton, nmIcon
 };
 if (typeof window !== 'undefined' && window.Vue) install(window.Vue);
 export default {

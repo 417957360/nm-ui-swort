@@ -9,7 +9,7 @@ theme.add('test', {
   gradientHight: '#f6ffff', // 渐变深色
   gradientLow: '#cfd6e2', // 渐变浅色
   shadowHight: '#ffffff', // 阴影浅色
-  shadowLow: '#c8cfda', // 阴影深色
+  shadowLow: '#c4cad5', // 阴影深色
   radius: '20px' // 圆角
 })
 theme.use('test')
